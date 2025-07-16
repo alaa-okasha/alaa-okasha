@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"><br><br>I'm a passionate React Front-End Developer from Egypt.  <br>I love building modern web applications and bringing ideas to life through clean and interactive UIs.</p>
+<p align="left">I'm a passionate React Front-End Developer from Egypt.  <br>I love building modern web applications and bringing ideas to life through clean and interactive UIs.</p>
 
 ###
 
