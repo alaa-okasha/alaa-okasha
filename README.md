@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">👋 Hi, I'm Alaa Okasha</h1>
 
 ###
 
-<p align="left">👋 Hi, I'm Alaa Okasha<br><br>I'm a passionate React Front-End Developer from Egypt.  <br>I love building modern web applications and bringing ideas to life through clean and interactive UIs.</p>
+<p align="left"><br><br>I'm a passionate React Front-End Developer from Egypt.  <br>I love building modern web applications and bringing ideas to life through clean and interactive UIs.</p>
 
 ###
 
