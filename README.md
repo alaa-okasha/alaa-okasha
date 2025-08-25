@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 I’m currently working on full-stack web projects using React, Node.js, and MongoDB<br> 📚 I’m learning more about Next.js, Django and PostgreSQL<br>🎯 My goal is to become a full-stack developer and contribute to impactful open-source projects<br>🚀 I'm also preparing for software competitions and exploring AI integration into web apps.</p>
+<p align="left">💻 I’m currently working on web projects using React<br> 📚 I’m learning more about Next.js, Django and PostgreSQL<br>🎯 My goal is to become a full-stack developer and contribute to impactful open-source projects<br>🚀 I'm also preparing for software competitions and exploring AI integration into web apps.</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">💻 Languages: JavaScript, HTML5, CSS3, Python, C++<br> ⚛️ Frontend: React.js, Tailwind CSS, Bootstrap, Vite<br> 🛠 Backend: Node.js, Express.js, MongoDB, Firebase<br> 🧠 Currently Exploring: Next.js, PostgreSQL, Prisma and Django<br>🔧 Tools: Git & GitHub, Figma, VS Code, Postman</p>
+<p align="left">💻 Languages: JavaScript, HTML5, CSS3, Python, C++<br> ⚛️ Frontend: React.js, Tailwind CSS, Bootstrap, Vite<br> 🛠 Backend: Firebase<br> 🧠 Currently Exploring: Next.js, PostgreSQL, Prisma and Django<br>🔧 Tools: Git & GitHub, Figma, VS Code, Postman</p>
 
 ###
 
