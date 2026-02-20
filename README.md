@@ -15,9 +15,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react-native/react-native-original.svg" height="40" alt="react native logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="react native logo" />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/expo-io.svg" height="40" alt="expo logo" />
+  <!-- Expo logo (working on GitHub) -->
+  <img src="https://raw.githubusercontent.com/expo/vector-icons/master/website/static/expo.svg" height="40" alt="expo logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="12" />
